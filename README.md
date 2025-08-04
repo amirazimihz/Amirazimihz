@@ -45,7 +45,7 @@
 
 | پروژه | تکنولوژی | دمو |
 |-------|-----------|------|
-| پورتفولیو شخصی | React + Vite + Tailwind | [مشاهده]([.](https://amirazimihz.github.io/amirhz-portfolio/)) |
+| پورتفولیو شخصی | React + Vite + Tailwind | [مشاهده](https://amirazimihz.github.io/amirhz-portfolio/) |
 | وبلاگ با Markdown | React + JSON + Markdown | به‌زودی... |
 | فرم احراز هویت Firebase | React + Firebase Auth | در حال توسعه |
 
